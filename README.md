@@ -5,6 +5,7 @@ it's only scanning network with a subnet of /24 .
 ```shell
 python pingsweep.py --help
 ```
+---
 ## Windows 
 ```shell
  python pingsweep.py -network <the network you want to sacn > -machines <number of machines you want to scan >
